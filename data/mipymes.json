@@ -1,0 +1,693 @@
+{
+  "mipymes" : [
+            {
+                 "mipyme_id": 1,
+                 "nombre": "LUKAS PAN",
+                 "ubicación(coordenadas)": "23.124822,-82.406647",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  750  },
+                       "2": {"disponible":   true   , "precio":  1500  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 2,
+                 "nombre": "17 y 12",
+                 "ubicación(coordenadas)": "23.129861,-82.402028",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  750  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   true   , "precio":  650  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 3,
+                 "nombre": "EL REY",
+                 "ubicación(coordenadas)": "23.143784,-82.396109",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  850  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   true   , "precio":  1850  },
+                       "9": {"disponible":   true   , "precio":  175  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   true   , "precio":  1800  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 4,
+                 "nombre": "-",
+                 "ubicación(coordenadas": "23.134433,-82.394342",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  700  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  980  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  150  },
+                       "10": {"disponible":   true   , "precio":  380  },
+                       "11": {"disponible":   true   , "precio":  600  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 5,
+                 "nombre": "EL TENCENT",
+                 "ubicación(coordenadas)": "23.131392,-82.398554",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  550  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  150  },
+                       "10": {"disponible":   true   , "precio":  2000  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 6,
+                 "nombre": "-",
+                 "ubicación(coordenadas)": "23.129955,-82.397678",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  120  },
+                       "10": {"disponible":   true   , "precio":  1700  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 7,
+                 "nombre": "BOHIO",
+                 "ubicación(coordenadas)": "23.129341,-82.401090",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  850  },
+                       "2": {"disponible":   true   , "precio":  1150  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  1250  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   true   , "precio":  900  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 8,
+                 "nombre": "D'ESCANDALO",
+                 "ubicación(coordenadas)": "23.130620,-82.400734",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  1500  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  2000  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  200  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 9,
+                 "nombre": "BODEGÓN",
+                 "ubicación(coordenadas)": "23.136194,-82.393802",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  800  },
+                       "2": {"disponible":   true   , "precio":  940  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 10,
+                 "nombre": "ENPLAZA",
+                 "ubicación(coordenadas)": "23.131107,-82.394828",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  750  },
+                       "2": {"disponible":   true   , "precio":  1200  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   true   , "precio":  3399  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   true   , "precio":  1080  },
+                       "9": {"disponible":   true   , "precio":  165  },
+                       "10": {"disponible":   true   , "precio":  750  },
+                       "11": {"disponible":   true   , "precio":  875  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 11,
+                 "nombre": "HOME DELI",
+                 "ubicación(coordenadas)": "23.127944.-82.400428",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  1270  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   true   , "precio":  1390  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 12,
+                 "nombre": "KALUCH",
+                 "ubicación(coordenadas)": "23.136136,-82.407628",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  750  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  1600  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  270  },
+                       "10": {"disponible":   true   , "precio":  1200  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 13,
+                 "nombre": "HABANA FLOW",
+                 "ubicación(coordenadas)": "23.135895,-82.406959",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  650  },
+                       "2": {"disponible":   true   , "precio":  950  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   true   , "precio":  2300  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 14,
+                 "nombre": "KSITA VERDE",
+                 "ubicación(coordenadas)": "23.129726,-82.414517",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   true   , "precio":  840  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  160  },
+                       "10": {"disponible":   true   , "precio":  1680  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 15,
+                 "nombre": "D'COTTI",
+                 "ubicación(coordenadas)": "23.143172,-82.386929",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  750  },
+                       "2": {"disponible":   true   , "precio":  1310  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   true   , "precio":  2650  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   true   , "precio":  2420  },
+                       "9": {"disponible":   true   , "precio":  230  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   true   , "precio":  4460  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 16,
+                 "nombre": "BODEGÓN DE LUNA",
+                 "ubicación(coordenadas)": "23.141990,-82.386763",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  1300  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   true   , "precio":  1880  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 17,
+                 "nombre": "-",
+                 "ubicación(coordenadas)": "23.137821,-82406051",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  720  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   true   , "precio":  420  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   true   , "precio":  110  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 18,
+                 "nombre": "FRESS",
+                 "ubicación": "23.123597,-82.421148",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  1868  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   true   , "precio":  3230  },
+                       "4": {"disponible":   true   , "precio":  1104  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  158  },
+                       "10": {"disponible":   true   , "precio":  806  },
+                       "11": {"disponible":   true   , "precio":  691  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 19,
+                 "nombre": "BAZAR TOÑO",
+                 "ubicación(coordenadas)": "23.128676,-82.416743",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  950  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 20,
+                 "nombre": "MERCADITO 1RA Y 10",
+                 "ubicación(coordenadas)": "23.129012,-82.419969",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  1100  },
+                       "3": {"disponible":   true   , "precio":  4000  },
+                       "4": {"disponible":   true   , "precio":  1200  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   true   , "precio":  3300  },
+                       "7": {"disponible":   true   , "precio":  450  },
+                       "8": {"disponible":   true   , "precio":  1600  },
+                       "9": {"disponible":   true   , "precio":  150  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   true   , "precio":  600  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 21,
+                 "nombre": "LA TABERNA BODEGÓN",
+                 "ubicación(coordenadas)": "23.118260,-82.432399",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  1150  },
+                       "2": {"disponible":   true   , "precio":  750  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  1300  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   true   , "precio":  1500  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 22,
+                 "nombre": "MERCADO 1RA Y 24",
+                 "ubicación(coordenadas)": "23.124728,-82.425125",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  850  },
+                       "2": {"disponible":   true   , "precio":  520  },
+                       "3": {"disponible":   true   , "precio":  4500  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   true   , "precio":  750  },
+                       "8": {"disponible":   true   , "precio":  250  },
+                       "9": {"disponible":   true   , "precio":  180  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   true   , "precio":  450  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   true   , "precio":  1300  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 23,
+                 "nombre": "OLIVO",
+                 "ubicación(coordenadas)": "23.129462,-82.417006",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  700  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   true   , "precio":  5470  },
+                       "4": {"disponible":  true   , "precio":  750  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   true   , "precio":  2750  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   true   , "precio":  2340  },
+                       "9": {"disponible":   true   , "precio":  230  },
+                       "10": {"disponible":   true   , "precio":  1500  },
+                       "11": {"disponible":   true   , "precio":  180  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   true   , "precio":  1200  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 24,
+                 "nombre": "MERCADO",
+                 "ubicación(coordenadas)": "23.118395,-82.430097",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  850  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0 },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   true   , "precio":  700  },
+                       "8": {"disponible":   true   , "precio":  1900  },
+                       "9": {"disponible":   true   , "precio":  250  },
+                       "10": {"disponible":   true   , "precio":  2100  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   true   , "precio":  1400  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 25,
+                 "nombre": "DIME YA",
+                 "ubicación(coordenadas)": "23.113845,-82.426564",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   true   , "precio":  905  },
+                       "8": {"disponible":   true   , "precio":  175  },
+                       "9": {"disponible":   true   , "precio":  150  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 26,
+                 "nombre": "EL COLMADO",
+                 "ubicación(coordenadas)": "",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  730  },
+                       "2": {"disponible":   true   , "precio":  850  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio": 840  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   true   , "precio":  810  },
+                       "8": {"disponible":   true   , "precio":  290  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   true   , "precio":  960  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   true   , "precio":  880  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   true   , "precio":  770  },
+                       "15": {"disponible":   true   , "precio":  2000  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 27,
+                 "nombre": "MI MERKDITO",
+                 "ubicación(coordenadas)": "23.139512,-82.376939",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   true   , "precio":  850  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  160  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   true   , "precio":  850  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   true   , "precio":  900  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 28,
+                 "nombre": "BODEGA",
+                 "ubicación(coordenadas)": "23.138169,-82.378878",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  1000  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":  true   , "precio":  450  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   false   , "precio":  0  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":  true   , "precio":  700  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   true   , "precio":  700  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 29,
+                 "nombre": "-",
+                 "ubicación(coordenadas)": "23.136978,-82.383651",
+                 "productos": {
+                       "1": {"disponible":   true   , "precio":  850  },
+                       "2": {"disponible":   false   , "precio":  0  },
+                       "3": {"disponible":   true   , "precio":  2600  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   false   , "precio":  0  },
+                       "10": {"disponible":   true   , "precio":  1000  },
+                       "11": {"disponible":   false   , "precio":  0  },
+                       "12": {"disponible":   false   , "precio":  0  },
+                       "13": {"disponible":   false   , "precio":  0  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            },
+
+            {
+                 "mipyme_id": 30,
+                 "nombre": "LA VIA CORTA",
+                 "ubicación(coordenadas)": "23.141167,-82.384791",
+                 "productos": {
+                       "1": {"disponible":   false   , "precio":  0  },
+                       "2": {"disponible":   true   , "precio":  1300  },
+                       "3": {"disponible":   false   , "precio":  0  },
+                       "4": {"disponible":   false   , "precio":  0  },
+                       "5": {"disponible":   false   , "precio":  0  },
+                       "6": {"disponible":   false   , "precio":  0  },
+                       "7": {"disponible":   false   , "precio":  0  },
+                       "8": {"disponible":   false   , "precio":  0  },
+                       "9": {"disponible":   true   , "precio":  180  },
+                       "10": {"disponible":   true   , "precio":  1000  },
+                       "11": {"disponible":   true   , "precio":  750  },
+                       "12": {"disponible":   true   , "precio":  750  },
+                       "13": {"disponible":   true   , "precio":  950  },
+                       "14": {"disponible":   false   , "precio":  0  },
+                       "15": {"disponible":   false   , "precio":  0  }
+                  }
+            }
+      ]
+}
